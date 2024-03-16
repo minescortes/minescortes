@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋
+I like embedded systems, I have worked with microcontrollers such as ARM architecture using C++, I am passionate about IoT and freeRTOS.
 <!--
 **minescortes/minescortes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
